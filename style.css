@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    padding: 50px;
+}
+
+.head img {
+    width: 500px;
+
+}
+
+.main img {
+    width: 90px;
+}
+
+.footer img {
+    width: 40px;
+    height: 40px;
+}
+
+ nav ul li {
+    display: inline-block;
+    background-color: #cdcdcd;
+    
+    
+}
+
+nav a {
+   
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: #aca9a9;
+}
